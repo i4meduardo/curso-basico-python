@@ -2,7 +2,7 @@
 
 En este curso aprenderás a programar en Pyhton
 
-![Logo de Python]([imagenes\python.png](https://github.com/i4meduardo/curso-basico-python/blob/main/imagenes/python.png))
+![Logo de Python](https://github.com/i4meduardo/curso-basico-python/blob/main/imagenes/python.png)
 
 **Requisitos**
 - Python 3.6 o superior 
