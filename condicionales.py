@@ -7,6 +7,8 @@ calificacion = int(calificacion)
 #Preguntamos si la califacion es menor a 700
 if  calificacion <  700 :
     print("Vees, por no estudiar") # Si es menor a 700 muestra esto
+elif calificacion == 700:
+    print("PANZAZOOO")
 elif calificacion > 1000:
     print("MIENTES!!! No se puede sacar mas de mil")
 else : # Si no se cumple el if anterior, pasa a esta linea
